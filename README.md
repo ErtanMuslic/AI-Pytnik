@@ -3,13 +3,13 @@
 Clone the project
 
 bash
-  git clone https://github.com/bodln/Pymills-Frontend
+  git clone https://github.com/ErtanMuslic/AI-Pytnik.git
 
 
 Go to the project directory
 
 bash
-  cd Pymills-Frontend
+  cd AI-Pytnik
 
 
 Install dependencies
