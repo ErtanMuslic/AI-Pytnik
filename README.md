@@ -2,23 +2,24 @@
 
 Clone the project
 
-bash
+```bash
   git clone https://github.com/ErtanMuslic/AI-Pytnik.git
-
+```
 
 Go to the project directory
 
-bash
+```bash
   cd AI-Pytnik
-
+```
 
 Install dependencies
 
-bash
+```bash
   npm install
+```
 
+Start the server, but make sure you change axios.defaults.baseURL in the Client.tsx to your backend url
 
-Start the server, but make sure you change API_URL in the config.ts to your backend url
-
-bash
+```bash
   npm run dev
+```
